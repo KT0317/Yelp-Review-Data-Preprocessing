@@ -32,6 +32,6 @@ HOW TO COMPILE THROUGH COMMAND LINE
 3. Compile by typing "javac index.java Stemmer.java Preprocessing.java" (without the quotation marks)
 4. Run the file by typing "java Preprocessing" (without the quotation marks)
 
-Runtime: Approx 530 seconds
+Runtime: Approximately 530 seconds
 
 The rest is done in Weka
